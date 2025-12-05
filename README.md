@@ -1,1 +1,1 @@
-# w-jiseda
+# template-full-banner-slider-group Template
