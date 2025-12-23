@@ -1,1 +1,14 @@
+/* Theme CSS - 테마 변수 정의 (폰트, 색상) */
+/* 배포 시 이 파일만 덮어쓰면 됨 */
 
+/* 테마 변수 */
+:root {
+    /* 색상 */
+    --color-primary: #f8f8f8;
+    --color-secondary: #1a1a1a;
+
+    /* 폰트 */
+    --font-ko-main: 'Maruburi', sans-serif;
+    --font-ko-sub: 'Noto Serif KR', serif;
+    --font-en-main: 'Chonburi', serif;
+}
