@@ -230,24 +230,46 @@ class PreviewHandler {
     }
 
     /**
-     * 기본 폰트 fallback 값 (현재 theme.css 기본값과 동일)
+     * 기본 폰트 fallback 값 (CSS에서 동적으로 읽어옴)
      */
     getDefaultFonts() {
-        return {
-            koMain: "'Maruburi', sans-serif",
-            koSub: "'Noto Serif KR', serif",
-            enMain: "'Chonburi', serif"
+        // 캐시된 값이 있으면 반환
+        if (this._cachedDefaultFonts) {
+            return this._cachedDefaultFonts;
+        }
+
+        const root = document.documentElement;
+        const computedStyle = getComputedStyle(root);
+
+        // CSS 변수에서 현재 값 읽기
+        this._cachedDefaultFonts = {
+            koMain: computedStyle.getPropertyValue('--font-ko-main').trim() || "'MaruBuri', sans-serif",
+            koSub: computedStyle.getPropertyValue('--font-ko-sub').trim() || "'Noto Serif KR', serif",
+            enMain: computedStyle.getPropertyValue('--font-en-main').trim() || "'Chonburi', serif"
         };
+
+        return this._cachedDefaultFonts;
     }
 
     /**
-     * 기본 색상 fallback 값 (현재 theme.css 기본값과 동일)
+     * 기본 색상 fallback 값 (CSS에서 동적으로 읽어옴)
      */
     getDefaultColors() {
-        return {
-            primary: '#F5F4F1',
-            secondary: '#C36355'
+        // 캐시된 값이 있으면 반환
+        if (this._cachedDefaultColors) {
+            return this._cachedDefaultColors;
+        }
+
+        const root = document.documentElement;
+        const computedStyle = getComputedStyle(root);
+
+        // CSS 변수에서 현재 값 읽기
+        this._cachedDefaultColors = {
+            primary: computedStyle.getPropertyValue('--color-primary').trim() || '#f8f8f8',
+            secondary: computedStyle.getPropertyValue('--color-secondary').trim() || '#1a1a1a'
         };
+
+        return this._cachedDefaultColors;
     }
 
     /**
@@ -317,7 +339,13 @@ class PreviewHandler {
      */
     applyColor(colorValue, cssVar, defaultValue) {
         const root = document.documentElement;
-        root.style.setProperty(cssVar, colorValue || defaultValue);
+
+        if (colorValue && typeof colorValue === 'string' && colorValue.trim()) {
+            root.style.setProperty(cssVar, colorValue);
+        } else {
+            // null/undefined/빈 문자열인 경우 기본값으로 리셋
+            root.style.setProperty(cssVar, defaultValue);
+        }
     }
 
     /**
