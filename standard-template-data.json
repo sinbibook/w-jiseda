@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2025-12-29T05:17:20.341Z",
+    "version": "1.16.0",
+    "generatedAt": "2025-12-29T10:17:26.468Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -1851,7 +1851,7 @@
     {
       "id": "8ff60e8a-6b50-4718-9884-356c3897e9e5",
       "name": "B403(풀오션뷰,애견동반,스파)",
-      "description": "침대룸 : 스파+침실+주방+샤워실+화장실+애견드라이룸",
+      "description": "침대룸 : 스파+침실+주방+샤워실+화장실",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
       "size": 49,
@@ -2015,7 +2015,7 @@
     {
       "id": "14711112-d36b-4c4f-9e76-bdd04daea9d1",
       "name": "B404(풀오션뷰,애견동반,스파,테라스)",
-      "description": "침대룸 : 스파+개별테라스+침실+주방+샤워실+화장실+애견드라이룸",
+      "description": "침대룸 : 스파+개별테라스+침실+주방+샤워실+화장실",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
       "size": 56,
@@ -2463,7 +2463,7 @@
     {
       "id": "29959a14-0044-4f2d-878f-d4eca6772eba",
       "name": "B303(풀오션뷰,애견동반,스파,테라스)",
-      "description": "침대룸 : 스파+개별테라스+침실+주방+샤워실+화장실+애견드라이룸",
+      "description": "침대룸 : 스파+개별테라스+침실+주방+샤워실+화장실",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
       "size": 56,
@@ -2615,7 +2615,7 @@
     {
       "id": "23cd8378-426a-4103-94ad-970d41b47679",
       "name": "B304(풀오션뷰,애견동반,스파)",
-      "description": "침대룸 : 스파+침실+주방+샤워실+화장실+애견드라이룸",
+      "description": "침대룸 : 스파+침실+주방+샤워실+화장실",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
       "size": 47,
@@ -3098,7 +3098,7 @@
     {
       "id": "f74d332a-55dc-4498-8569-1f10d6672bd3",
       "name": "B203(풀오션뷰,애견동반,스파,실외풀,테라스)",
-      "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침실+주방+샤워실+화장실+애견드라이룸\n야외풀빌라 미온수 불가",
+      "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침실+주방+샤워실+화장실\n야외풀빌라 미온수 불가",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
       "size": 56,
@@ -3264,7 +3264,7 @@
     {
       "id": "a5ea6cbe-6085-44d5-98a6-5601c392237c",
       "name": "B204(풀오션뷰,애견동반,스파,실외풀,테라스)",
-      "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침대2+주방+샤워실+화장실+애견드라이룸\n야외풀빌라 미온수 불가",
+      "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침대2+주방+샤워실+화장실\n야외풀빌라 미온수 불가",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
       "size": 56,
@@ -3532,35 +3532,35 @@
                   {
                     "id": "2a3e5e82-7795-4bef-bc70-810df4289f57",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_hero/1762828418205-qamp22sqram.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "906f7d2e-8caa-49cd-838d-507424fdcf8d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_hero/1765345239481-lxaazkkql8a.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "f36ff8df-6d9a-4d15-a50b-8ccbfdaa24ee",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_hero/1765345129194-y3fggg7r4dd.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": false
                   },
                   {
                     "id": "71288385-8b84-4e31-a227-91c25617c5a9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_hero/1766015770333-8lhoagz1rco.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "cb73eff0-d8b1-4e6d-a535-bd41d040a33f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_hero/1762828418206-y0blj3uwa58.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 10,
                     "description": "",
                     "isSelected": false
                   }
@@ -3696,11 +3696,11 @@
                     "isSelected": true
                   },
                   {
-                    "id": "428533ac-da90-44f1-b4eb-5576e9524ab4",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/directions_hero/1762853285652-dfuil7nn35.jpg",
+                    "id": "ffdb6c21-a7b9-4053-8166-2042940fc784",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/directions_hero/1767003350847-itx98ju8x6.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": false
                   },
                   {
                     "id": "605e459d-e5aa-463e-a87e-b393bd5b0826",
@@ -3708,6 +3708,20 @@
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": false
+                  },
+                  {
+                    "id": "4a880bc1-242f-4fb8-b5ff-5cc554f324ee",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/directions_hero/1767003350848-oi0jjphsr8j.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "99a1fcfe-0ed9-4150-84da-66c27958f07f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/directions_hero/1767003350848-zcloyn92rp.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
                   }
                 ]
               },
