@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2025-12-26T03:18:25.457Z",
+    "version": "1.13.0",
+    "generatedAt": "2025-12-29T02:35:37.816Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -599,7 +599,7 @@
   "rooms": [
     {
       "id": "5e583336-91ac-41ad-93a8-f82d62ad785b",
-      "name": "A601(풀오션뷰,실내풀빌라,스파)",
+      "name": "A601(풀오션뷰,실내풀빌라,스파,테라스)",
       "description": "펜트하우스룸 : 프라이빗온수풀 + 스파 + 개별테라스 + 침실 + 주방 + 샤워실 + 화장실\n침대 2개 : 퀸1+싱글1\n\n",
       "roomInfo": "[인원추가요금 (1박기준/현장결제)]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "A동",
@@ -616,17 +616,22 @@
         "싱글 베드"
       ],
       "amenities": [
+        "침대",
+        "테라스",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
-        "바디워시"
+        "바디워시",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -790,7 +795,7 @@
     },
     {
       "id": "09d48f16-42fb-445c-96d0-7e4285e9996e",
-      "name": "B602(풀오션뷰,애견동반,실내풀빌라,스파)",
+      "name": "B602(풀오션뷰,애견동반,실내풀빌라,스파,테라스)",
       "description": "펜트하우스룸 : 프라이빗온수풀 + 스파 + 개별테라스 + 침실 + 주방 + 샤워실 + 화장실\n침대 2개 : 퀸1+싱글1",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
@@ -807,18 +812,23 @@
         "싱글 베드"
       ],
       "amenities": [
+        "침대",
+        "테라스",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "화장실",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -984,18 +994,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -1130,17 +1144,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
+        "테라스",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
-        "바디워시"
+        "바디워시",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -1263,18 +1282,23 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
+        "테라스",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -1404,18 +1428,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -1550,18 +1578,23 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
+        "테라스",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -1698,17 +1731,21 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
         "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -1829,18 +1866,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -1989,18 +2030,23 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
+        "전기밥솥",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -2137,18 +2183,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -2290,18 +2340,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -2424,18 +2478,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -2448,8 +2506,8 @@
         {
           "thumbnail": [
             {
-              "id": "615752ab-bb13-4890-bb19-e119d148b2e7",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/thumbnail/1766544396915-ymm0vrs0ueo.jpg",
+              "id": "1545ddf9-5569-4ddb-bdd4-786e3ae88721",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/thumbnail/1766975695105-j4n8jny2p3.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true
@@ -2457,102 +2515,95 @@
           ],
           "interior": [
             {
-              "id": "93da90f9-41ff-4b2a-b299-6750d9dbf0ad",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-72aacf9gkop.jpg",
+              "id": "bda4e256-bba5-4abd-aed9-8b8ed687865f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695105-nad5qvpri2.jpg",
               "sortOrder": 1,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "9e01aa6f-846e-4b80-ad08-4069ed410058",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-nkcmc3cmk4.jpg",
+              "id": "ce98788b-9771-4eb7-9225-3e8d67258369",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695105-zj6c664kv2.jpg",
               "sortOrder": 2,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "ad9611c0-fa32-4d31-b901-d90122f77c9c",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-dmztoydoybi.jpg",
+              "id": "ac2434c2-595c-4857-abbe-398246ce9178",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695105-2nr60yf7i1t.jpg",
               "sortOrder": 3,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "d0aac898-6f82-4fb2-806b-7a77a9dd0715",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-eiiji0gj9k.jpg",
+              "id": "18c9e6f5-fbd4-4699-bb85-2a7cc80fd056",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695105-pnshefef5f.jpg",
               "sortOrder": 4,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "21ac2ae0-a5f2-428a-a07e-bce368a6f762",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-lexhtcvnleb.jpg",
+              "id": "230428e8-8054-4b1b-ac39-473fcb4d0fac",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695105-tiyd8qkz8r.jpg",
               "sortOrder": 5,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "608dfb05-c69f-4b97-b683-f3eac28ba40e",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-cvlue9ad45d.jpg",
+              "id": "e52cc7c1-ded3-448b-abfd-c10a895e1502",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695105-l7fmis4c79.jpg",
               "sortOrder": 6,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "a7afc580-69cf-4481-984d-b71142b2b587",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-6mw56jd96a.jpg",
+              "id": "0b713553-cddd-44f1-89af-fcfda72f7809",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695106-fqk4zk9tgah.jpg",
               "sortOrder": 7,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "a8d78333-7205-4836-859c-7045729a10b9",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-u9jfjek62n9.jpg",
+              "id": "e2a059e2-8b85-4487-808d-856119680c43",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695106-wj6wzl7x95b.jpg",
               "sortOrder": 8,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "bf7e36db-d44f-4d30-81e5-ee58e9e50b76",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-jfe007h4ls.jpg",
+              "id": "e0da8058-cc70-425a-80b7-ecedc23977c7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695106-cw7cpe60mc4.jpg",
               "sortOrder": 9,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "a2f5bd75-aae9-403a-b1a0-051b36ea875f",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-3fj1tj7vthv.jpg",
+              "id": "cbcdb83a-9209-42dc-b5c6-a872ce86e226",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766975695106-d4grlcfttah.jpg",
               "sortOrder": 10,
-              "description": "",
-              "isSelected": true
-            },
-            {
-              "id": "9a4e808e-9e2d-42cf-b95b-f2bb416b60cb",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/interior/1766544396916-19f23yo8qwg.jpg",
-              "sortOrder": 11,
               "description": "",
               "isSelected": true
             }
           ],
           "exterior": [
             {
-              "id": "cca5fc7c-6904-4ca1-b8d9-8a7fefe9a30d",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/exterior/1766544396916-2rghs77zllr.jpg",
+              "id": "f8e033d9-ba33-4984-bd7e-892b74874838",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/exterior/1766975695106-p815mza5gcf.jpg",
+              "sortOrder": 11,
+              "description": "",
+              "isSelected": true
+            },
+            {
+              "id": "e2886d27-4c68-49cf-8f7d-5469ab2a7a22",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/exterior/1766975695106-08dofpnyzv0t.jpg",
               "sortOrder": 12,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "a5551575-f95d-4090-97b1-a51e4bea7d0b",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/exterior/1766544396916-y6xoh3omk9.jpg",
+              "id": "6cab2bda-c87b-4dd6-8970-4fac77189be5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/exterior/1766975695106-ge4qd7j2vqp.jpg",
               "sortOrder": 13,
-              "description": "",
-              "isSelected": true
-            },
-            {
-              "id": "b5878cc2-c686-485b-9284-c367c3a8e6ac",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/29959a14-0044-4f2d-878f-d4eca6772eba/exterior/1766544396916-2qst0bhcnns.jpg",
-              "sortOrder": 14,
               "description": "",
               "isSelected": true
             }
@@ -2579,18 +2630,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -2601,8 +2656,8 @@
         {
           "thumbnail": [
             {
-              "id": "01428e41-c7fd-4339-a2e4-d1a252f582b2",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/thumbnail/1766544452309-bfcvthyy6po.jpg",
+              "id": "5bcdc994-9d50-4ead-b52a-83dbed05f514",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/thumbnail/1766975621689-eiixo2dp1of.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true
@@ -2610,72 +2665,79 @@
           ],
           "interior": [
             {
-              "id": "421f69b3-1660-4a70-83f5-426e1a3a8606",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-ut0j7jv2aaq.jpg",
+              "id": "76e1decb-481c-410b-bf29-f8994609a3e7",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621690-ut05wkwa42.jpg",
               "sortOrder": 1,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "1793cd34-81c8-4fab-9a26-a46e3b534a2e",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-9tbuflizmgu.jpg",
+              "id": "e3d7796b-fbe6-48ad-b150-b46dd3bbf392",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-g8ji7bjaawt.jpg",
               "sortOrder": 2,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "bd4d5463-d1a3-4c20-afa5-1cd16a82d7b1",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-lon7p04ku7.jpg",
+              "id": "4827cdfd-66a9-4f4c-be3c-ab381bf11d01",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-djkj92g04q8.jpg",
               "sortOrder": 3,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "72168b81-297f-4869-8afd-bcbbde695a07",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-t2ae048k65h.jpg",
+              "id": "b010f4b8-5b9f-4849-bacc-f757a0377ad9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-qfano25amao.jpg",
               "sortOrder": 4,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "18bd0fa8-73c9-4d43-a84f-89d77d6ebc5e",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-mf0qeji9xc.jpg",
+              "id": "ddab8a18-d59b-4f6e-86f5-2b33a040322f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-815lue7jzer.jpg",
               "sortOrder": 5,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "95fab772-90da-479a-bc8b-507997b6bf9a",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-zf8sx9ehj1.jpg",
+              "id": "377796df-c961-455f-9935-159073f43b70",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-iykixoav03.jpg",
               "sortOrder": 6,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "6756d904-0ca7-4451-99d1-00c399fa4d3c",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-bt2jnvn36lr.jpg",
+              "id": "18f797ab-bc14-4130-b537-615e76c00404",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-he3aq979vws.jpg",
               "sortOrder": 7,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "ad1c3421-eb95-4fb5-bdc9-f470d7bb82c4",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-hr56f73d3g.jpg",
+              "id": "b092ffa9-a92d-4964-9151-279394f16f5a",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-63onvxuannm.jpg",
               "sortOrder": 8,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "09af39b1-22af-4d79-ab19-c2bb7fd09c21",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-frts2yon8fw.jpg",
+              "id": "3c623cb8-fead-4144-8535-a07dd31e0ab1",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-m6bwi3zuqi.jpg",
               "sortOrder": 9,
               "description": "",
               "isSelected": true
             },
             {
-              "id": "8453d4b0-6836-4e18-9072-c39e302233cc",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766544452310-u5yp5j5iggr.jpg",
+              "id": "6a5c39c5-6668-47ea-ae6b-731843cbd90f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621691-musmpw0g9c.jpg",
               "sortOrder": 10,
+              "description": "",
+              "isSelected": true
+            },
+            {
+              "id": "cf86a602-959f-42ad-86ee-76bdb67c4689",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/interior/1766975621692-su7ikgnsh79.jpg",
+              "sortOrder": 11,
               "description": "",
               "isSelected": true
             }
@@ -2684,21 +2746,28 @@
             {
               "id": "4aacf7c4-d924-4c76-a0f4-6de360d622f8",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/exterior/1766544452310-ulstmrrc1pl.jpg",
-              "sortOrder": 11,
+              "sortOrder": 0,
               "description": "",
-              "isSelected": true
+              "isSelected": false
             },
             {
               "id": "2383c7f2-ef84-4330-8c32-1ed0a544b421",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/exterior/1766544452310-8395ksap8i.jpg",
-              "sortOrder": 12,
+              "sortOrder": 2,
               "description": "",
               "isSelected": true
             },
             {
               "id": "b795860b-bfc2-45e1-addf-792ab44dfc4d",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/exterior/1766544452310-bss824tbg96.jpg",
-              "sortOrder": 13,
+              "sortOrder": 3,
+              "description": "",
+              "isSelected": true
+            },
+            {
+              "id": "fa20a035-cffb-4684-a581-a1a9f576073f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/roomtype/23cd8378-426a-4103-94ad-970d41b47679/exterior/1766975621692-glr66auf4j.jpg",
+              "sortOrder": 12,
               "description": "",
               "isSelected": true
             }
@@ -2709,7 +2778,7 @@
     },
     {
       "id": "118b7de5-c7a1-4a57-b4ca-e42c8b11725d",
-      "name": "A201(풀오션뷰,스파,실외풀)",
+      "name": "A201(풀오션뷰,스파,실외풀,테라스)",
       "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침실+주방+샤워실+화장실\n야외풀빌라 미온수 불가 ",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "A동",
@@ -2725,18 +2794,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -2878,7 +2951,7 @@
     },
     {
       "id": "10d04f1e-a22f-42e0-bca7-9ae828700667",
-      "name": "A202(풀오션뷰,스파,실외풀)",
+      "name": "A202(풀오션뷰,스파,실외풀,테라스)",
       "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침대2+주방+샤워실+화장실\n야외풀빌라 미온수 불가",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "A동",
@@ -2895,18 +2968,22 @@
         "싱글 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -3020,7 +3097,7 @@
     },
     {
       "id": "f74d332a-55dc-4498-8569-1f10d6672bd3",
-      "name": "B203(풀오션뷰,애견동반,스파,실외풀)",
+      "name": "B203(풀오션뷰,애견동반,스파,실외풀,테라스)",
       "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침실+주방+샤워실+화장실+애견드라이룸\n야외풀빌라 미온수 불가",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
@@ -3036,18 +3113,22 @@
         "퀸 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
@@ -3182,7 +3263,7 @@
     },
     {
       "id": "a5ea6cbe-6085-44d5-98a6-5601c392237c",
-      "name": "B204(풀오션뷰,애견동반,스파,실외풀)",
+      "name": "B204(풀오션뷰,애견동반,스파,실외풀,테라스)",
       "description": "침대룸 : 프라이빗야외풀+스파+개별테라스+침대2+주방+샤워실+화장실+애견드라이룸\n야외풀빌라 미온수 불가",
       "roomInfo": "[인원추가요금 (1박기준/현장결제) ]\n- 중학생 이상 30,000원(이불 포함)\n- 초등학생 이하는 무료 / 이불 요청 시 1만원",
       "group": "B동(반려견동반)",
@@ -3199,18 +3280,22 @@
         "싱글 베드"
       ],
       "amenities": [
+        "침대",
         "무료 WiFi",
         "스마트 TV",
         "에어컨",
-        "침대",
         "냉장고",
-        "헤어드라이어",
         "전자레인지",
+        "헤어드라이어",
         "전기포트",
+        "비데",
         "수건",
+        "슬리퍼",
         "샴푸",
         "바디워시",
-        "칫솔"
+        "칫솔",
+        "치약",
+        "화재 감지기"
       ],
       "roomViews": [
         "오션뷰"
