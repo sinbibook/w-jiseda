@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2025-12-30T01:24:19.905Z",
+    "version": "1.18.0",
+    "generatedAt": "2025-12-30T07:04:03.477Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -3727,7 +3727,7 @@
               },
               "notice": {
                 "title": "위치 안내",
-                "description": "네비게이션에 '속초 지세다' 또는 주소를 검색해주세요\n- 등대 해수욕장 바로 앞 위치"
+                "description": "네비게이션에  속초 지세다/ 속초 W풀빌라 또는 주소를 검색해주세요\n- 강원특별자치도 속초시 영랑해안길 181 \n- 강원특별자치도 속초시 영랑해안길 183\n- 등대 해수욕장 바로 앞 위치"
               }
             }
           ]
@@ -3851,6 +3851,14 @@
             }
           ]
         }
+      },
+      "theme": {
+        "font": {
+          "koSub": null,
+          "enMain": null,
+          "koMain": null
+        },
+        "color": null
       }
     }
   }
