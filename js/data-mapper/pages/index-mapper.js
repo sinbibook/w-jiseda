@@ -117,7 +117,7 @@ class IndexMapper extends BaseDataMapper {
                 if (roomsInGroup.length === 0) return;
 
                 // 탭 생성
-                const tab = document.createElement('div');
+                const tab = document.createElement('button');
                 tab.className = `room-tab${index === 0 ? ' active' : ''}`;
                 tab.setAttribute('data-room', group);
                 tab.innerHTML = `
@@ -199,25 +199,44 @@ class IndexMapper extends BaseDataMapper {
                 window.initRoomPreviewAnimation();
             }
 
-            // Room tabs 이벤트 리스너
+            // Room tabs 이벤트 리스너 - 모바일과 데스크톱 지원
             const tabs = document.querySelectorAll('.room-tab');
             const images = document.querySelectorAll('.room-image-item');
             const descItems = document.querySelectorAll('.room-desc-item');
 
-            tabs.forEach(tab => {
-                tab.addEventListener('mouseenter', () => {
-                    const roomType = tab.dataset.room;
-                    tabs.forEach(t => t.classList.remove('active'));
-                    tab.classList.add('active');
+            function activateTab(tab) {
+                const roomType = tab.dataset.room;
+                tabs.forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
 
-                    images.forEach(img => {
-                        img.classList.toggle('active', img.dataset.room === roomType);
-                    });
-
-                    descItems.forEach(item => {
-                        item.classList.toggle('active', item.dataset.room === roomType);
-                    });
+                images.forEach(img => {
+                    img.classList.toggle('active', img.dataset.room === roomType);
                 });
+
+                descItems.forEach(item => {
+                    item.classList.toggle('active', item.dataset.room === roomType);
+                });
+            }
+
+            tabs.forEach(tab => {
+                // Desktop: hover event
+                tab.addEventListener('mouseenter', () => {
+                    if (window.innerWidth > 768) {
+                        activateTab(tab);
+                    }
+                });
+
+                // Mobile: click/touch event
+                tab.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    activateTab(tab);
+                });
+
+                // iOS Safari 전용 터치 이벤트
+                tab.addEventListener('touchend', (e) => {
+                    e.preventDefault();
+                    activateTab(tab);
+                }, { passive: false });
             });
         }
     }
