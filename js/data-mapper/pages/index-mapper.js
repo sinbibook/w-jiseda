@@ -228,14 +228,20 @@ class IndexMapper extends BaseDataMapper {
 
                 // Mobile: click/touch event
                 tab.addEventListener('click', (e) => {
-                    e.preventDefault();
-                    activateTab(tab);
+                    // VIEW 버튼 클릭시에는 preventDefault 하지 않음
+                    if (!e.target.closest('.room-tab-detail-btn')) {
+                        e.preventDefault();
+                        activateTab(tab);
+                    }
                 });
 
                 // iOS Safari 전용 터치 이벤트
                 tab.addEventListener('touchend', (e) => {
-                    e.preventDefault();
-                    activateTab(tab);
+                    // VIEW 버튼 터치시에는 preventDefault 하지 않음
+                    if (!e.target.closest('.room-tab-detail-btn')) {
+                        e.preventDefault();
+                        activateTab(tab);
+                    }
                 }, { passive: false });
             });
         }
