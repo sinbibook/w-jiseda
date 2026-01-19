@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.27.0",
-    "generatedAt": "2026-01-19T07:51:18.158Z",
+    "version": "1.28.0",
+    "generatedAt": "2026-01-19T07:51:40.165Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -3968,6 +3968,7 @@
           "images": []
         }
       ]
-    }
+    },
+    "id": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
   }
 }
