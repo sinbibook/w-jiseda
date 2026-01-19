@@ -48,12 +48,12 @@ class HeaderFooterMapper extends BaseDataMapper {
     mapHeaderLogo() {
         if (!this.isDataLoaded || !this.data.property) return;
 
-        const property = this.data.property;
+        const propertyName = this.getPropertyName();
 
         // Header 로고 텍스트 매핑 (data-logo-text 속성 사용)
         const logoText = this.safeSelect('[data-logo-text]');
-        if (logoText && property.name) {
-            logoText.textContent = property.name;
+        if (logoText) {
+            logoText.textContent = propertyName;
         }
 
         // ImageHelpers가 로드되었는지 확인
@@ -69,7 +69,7 @@ class HeaderFooterMapper extends BaseDataMapper {
 
             if (logoUrl) {
                 logoImage.src = logoUrl;
-                logoImage.alt = property.name || '로고';
+                logoImage.alt = propertyName || '로고';
                 logoImage.classList.remove('empty-image-placeholder');
             } else {
                 logoImage.src = ImageHelpers.EMPTY_IMAGE_SVG;
@@ -438,7 +438,7 @@ class HeaderFooterMapper extends BaseDataMapper {
     mapFooterLogo() {
         if (!this.isDataLoaded || !this.data.property) return;
 
-        const property = this.data.property;
+        const propertyName = this.getPropertyName();
 
         // ImageHelpers가 로드되었는지 확인
         if (typeof ImageHelpers === 'undefined') {
@@ -446,8 +446,8 @@ class HeaderFooterMapper extends BaseDataMapper {
 
             // 텍스트는 그대로 매핑
             const footerLogoText = this.safeSelect('[data-footer-logo-text]');
-            if (footerLogoText && property.name) {
-                footerLogoText.textContent = property.name;
+            if (footerLogoText) {
+                footerLogoText.textContent = propertyName;
             }
             return;
         }
@@ -459,7 +459,7 @@ class HeaderFooterMapper extends BaseDataMapper {
 
             if (logoUrl) {
                 footerLogoImage.src = logoUrl;
-                footerLogoImage.alt = property.name || '로고';
+                footerLogoImage.alt = propertyName || '로고';
                 footerLogoImage.classList.remove('empty-image-placeholder');
             } else {
                 footerLogoImage.src = ImageHelpers.EMPTY_IMAGE_SVG;
@@ -470,8 +470,8 @@ class HeaderFooterMapper extends BaseDataMapper {
 
         // Footer 로고 텍스트 매핑
         const footerLogoText = this.safeSelect('[data-footer-logo-text]');
-        if (footerLogoText && property.name) {
-            footerLogoText.textContent = property.name;
+        if (footerLogoText) {
+            footerLogoText.textContent = propertyName;
         }
     }
 
@@ -646,34 +646,10 @@ if (typeof module !== 'undefined' && module.exports) {
     window.HeaderFooterMapper = HeaderFooterMapper;
 }
 
-// 자동 초기화 (MutationObserver 사용)
+// 자동 초기화 (headerFooterLoaded 이벤트 기반)
 if (typeof window !== 'undefined') {
-    function tryInitialize() {
-        const header = document.querySelector('.header');
-        const footer = document.querySelector('.footer');
-
-        if (header && footer) {
-            const headerFooterMapper = new HeaderFooterMapper();
-            headerFooterMapper.initialize();
-            return true;
-        }
-        return false;
-    }
-
-    // 이미 로드된 경우 즉시 초기화 시도
-    if (tryInitialize()) {
-        // 초기화 성공, 종료
-    } else {
-        // MutationObserver로 DOM 변경 감지
-        const observer = new MutationObserver(() => {
-            if (tryInitialize()) {
-                observer.disconnect(); // 초기화 성공 시 관찰 중지
-            }
-        });
-
-        observer.observe(document.body, {
-            childList: true,
-            subtree: true
-        });
-    }
+    document.addEventListener('headerFooterLoaded', function() {
+        const headerFooterMapper = new HeaderFooterMapper();
+        headerFooterMapper.initialize();
+    });
 }
