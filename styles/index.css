@@ -165,7 +165,7 @@
 /* Override for Index Page Hero Text */
 .hero-section .hero-content .hero-text {
     text-align: center !important;
-    padding: 2rem;
+    padding: 2rem 1rem;
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
