@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-01-27T06:42:38.482Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-02-04T01:26:58.613Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -54,10 +54,10 @@
       "businessNumber": "110-23-92280",
       "representativeName": "유정희",
       "businessAddress": "강원특별자치도 속초시 영랑해안길 181 (영랑동)",
-      "businessPhone": "",
-      "businessEmail": "",
-      "businessType": "",
-      "businessCategory": "",
+      "businessPhone": "010-3265-5468",
+      "businessEmail": "555@naver.com",
+      "businessType": "individual",
+      "businessCategory": "숙박업",
       "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
@@ -639,7 +639,7 @@
     "nameEn": "Sokcho Jiseda Spa PoolVilla",
     "domain": "w-jiseda.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/9764",
-    "ybsId": "76351"
+    "ybsId": ""
   },
   "rooms": [
     {
@@ -6525,6 +6525,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
   }
 }
