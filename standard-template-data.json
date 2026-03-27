@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.40.0",
-    "generatedAt": "2026-03-27T08:13:05.914Z",
+    "version": "1.41.0",
+    "generatedAt": "2026-03-27T09:03:38.117Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -3647,8 +3647,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "0faf0473-ec39-406f-bd85-f33ca2568998",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_closing/1762917379454-y17k6kepapg.jpg",
+                    "id": "e02bb168-28a4-4f15-8b27-5d05e355b319",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_closing/1774602208458-lxkdwxu67ki.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -3679,45 +3679,45 @@
                 "title": "Peaceful healing",
                 "images": [
                   {
-                    "id": "a907b0c3-713d-4c08-b285-83c3e71d0285",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1762916847318-e9v6866k77e.jpg",
+                    "id": "84dea5d3-4d36-4236-8b83-fdfd0263c932",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-llw07kheg8b.jpg",
                     "sortOrder": 0,
-                    "description": "루프탑",
+                    "description": "개별 수영장",
                     "isSelected": true
                   },
                   {
-                    "id": "a4765323-bc73-40bf-b3b2-b71282dad037",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1762916847318-pegssbbtbb.jpg",
+                    "id": "340cddea-4fc9-4a71-91c9-0a7f1858a818",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-vw8kgnzyslf.jpg",
                     "sortOrder": 1,
-                    "description": "해변",
+                    "description": "바베큐",
                     "isSelected": true
                   },
                   {
-                    "id": "95ab630f-efe1-4841-ad75-221c1950244a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1762916847318-nj63togi8ka.jpg",
+                    "id": "e99b0db6-e9f1-4c41-9516-f7688e4c05a7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-l15gxqk9c5b.jpg",
                     "sortOrder": 2,
-                    "description": "개별 바베큐",
+                    "description": "루프탑 수영장",
                     "isSelected": true
                   },
                   {
-                    "id": "5ce017a7-b2b1-4e17-86a7-d18f51de436f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1762916847318-xkdzc0658g.jpg",
+                    "id": "b541f600-5898-4983-8287-e3df558fc3c5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-opgvqbzy1.jpg",
                     "sortOrder": 3,
-                    "description": "카페1",
-                    "isSelected": false
+                    "description": "객실내부",
+                    "isSelected": true
                   },
                   {
-                    "id": "b90301d9-6a2c-4704-9188-f598aff11cb1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1762916847318-9gt5vd6d778.jpg",
+                    "id": "68156abb-8018-4b91-9794-af4c7f44d60a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-wbyjkflkwuq.jpg",
                     "sortOrder": 4,
-                    "description": "카페2",
-                    "isSelected": false
+                    "description": "Spa",
+                    "isSelected": true
                   },
                   {
-                    "id": "cd202096-a2d3-4f37-afc3-b50c4eaf3627",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1766985016647-uonflsj4n0l.jpg",
+                    "id": "58df52b3-553d-4acd-81d1-b779011891af",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599681221-mr3eqj7y26a.jpg",
                     "sortOrder": 5,
-                    "description": "개별수영장",
+                    "description": "OceanView",
                     "isSelected": true
                   }
                 ]
@@ -3726,17 +3726,31 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "e96a82c3-d622-4c92-bd0d-149e370e45f3",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_signature/1762917379454-gq4izctwq55.jpg",
+                    "id": "aaaede11-3353-4b7e-8e00-82d634d70d33",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_signature/1774600082450-70qftt3nnh9.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": false
+                    "description": "개별 수영장에서 인생샷☀️📷",
+                    "isSelected": true
                   },
                   {
-                    "id": "9388077f-19ac-4620-a7df-20a598231795",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_signature/1766985016648-90ui1dddnvv.jpg",
+                    "id": "1681652a-a84d-4b0b-9764-bc68c473fd12",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_signature/1774600082450-0vh2vkpsn77h.jpg",
                     "sortOrder": 1,
-                    "description": "속초 W너와지세다",
+                    "description": "오션뷰 바라보며 Spa time🛁",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "2e032a3d-4883-4556-bf8d-048942019fd5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_signature/1774600082450-u9ivkbh6at.jpg",
+                    "sortOrder": 2,
+                    "description": "애견동반 객실🐶🐾",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "8ed28c96-5cdc-4a51-8660-f8d90b8e6b50",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_signature/1774600082450-a11lv3a6dp.jpg",
+                    "sortOrder": 3,
+                    "description": "바다 앞 10초거리🌊🩵",
                     "isSelected": true
                   }
                 ],
@@ -3917,11 +3931,29 @@
       },
       "theme": {
         "font": {
-          "koSub": null,
-          "enMain": null,
-          "koMain": null
+          "koSub": {
+            "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
+            "key": "pretendard",
+            "woff2": null,
+            "family": "Pretendard"
+          },
+          "enMain": {
+            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
+            "key": "cormorant",
+            "woff2": null,
+            "family": "Cormorant"
+          },
+          "koMain": {
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
+          }
         },
-        "color": null
+        "color": {
+          "primary": "#F5F5F5",
+          "secondary": "#324857"
+        }
       },
       "popup": {
         "popups": []
