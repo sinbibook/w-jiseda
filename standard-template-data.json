@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-03-30T07:18:46.024Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-03-30T07:36:42.587Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -3539,38 +3539,38 @@
                     "isSelected": true
                   },
                   {
-                    "id": "340cddea-4fc9-4a71-91c9-0a7f1858a818",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-vw8kgnzyslf.jpg",
-                    "sortOrder": 1,
-                    "description": "바베큐",
-                    "isSelected": true
-                  },
-                  {
                     "id": "e99b0db6-e9f1-4c41-9516-f7688e4c05a7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-l15gxqk9c5b.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "루프탑 수영장",
                     "isSelected": true
                   },
                   {
                     "id": "b541f600-5898-4983-8287-e3df558fc3c5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-opgvqbzy1.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "객실내부",
                     "isSelected": true
                   },
                   {
                     "id": "68156abb-8018-4b91-9794-af4c7f44d60a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-wbyjkflkwuq.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "Spa",
                     "isSelected": true
                   },
                   {
                     "id": "58df52b3-553d-4acd-81d1-b779011891af",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599681221-mr3eqj7y26a.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "OceanView",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "340cddea-4fc9-4a71-91c9-0a7f1858a818",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8626255b-3dd4-4e4d-8767-f50e9db5fd87/index_gallery/1774599513704-vw8kgnzyslf.jpg",
+                    "sortOrder": 5,
+                    "description": "바베큐",
                     "isSelected": true
                   }
                 ]
