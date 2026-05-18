@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.51.0",
-    "generatedAt": "2026-05-07T06:49:57.736894843Z",
+    "version": "1.52.0",
+    "generatedAt": "2026-05-18T05:23:46.056810299Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "bb8f51ba-654b-4897-abc2-ac814b81db7b",
     "homepageId": "8626255b-3dd4-4e4d-8767-f50e9db5fd87"
@@ -536,7 +536,7 @@
     ],
     "nameEn": "Sokcho Jiseda Spa PoolVilla",
     "domain": "w-jiseda.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/9764",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1261125903",
     "ybsId": ""
   },
   "rooms": [
@@ -561,6 +561,7 @@
         "킹 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -790,6 +791,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -954,6 +956,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1132,6 +1135,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1293,6 +1297,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1474,6 +1479,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1638,6 +1644,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1825,6 +1832,7 @@
         "킹 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1997,6 +2005,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2202,6 +2211,7 @@
         "킹 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -2416,6 +2426,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2594,6 +2605,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -2783,6 +2795,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -2964,6 +2977,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -3158,6 +3172,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -3352,6 +3367,7 @@
       "bedTypes": [
         "킹 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -3533,6 +3549,7 @@
         "킹 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -3721,6 +3738,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
